@@ -35,7 +35,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 body {
-  background: url(./images/background.jpg);
+  background: url(background.jpg);
   background-attachment: fixed;
   background-position: center;
   overflow-x: hidden;
@@ -168,7 +168,7 @@ section{
 
 .home{
     margin-top: 55px;
-    background: url(./images/home-bg.png) no-repeat;
+    background: url(home-bg.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
